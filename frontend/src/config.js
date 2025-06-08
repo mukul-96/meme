@@ -1,5 +1,5 @@
 // src/config.js
 
-const BACKEND_URL = 'http://localhost:5000/'; 
+const BACKEND_URL = 'https://meme-5swa.vercel.app/'; 
 
 export default BACKEND_URL;
